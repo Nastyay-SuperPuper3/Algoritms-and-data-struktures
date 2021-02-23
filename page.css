@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
 * {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Bad Script', cursive;
 }
 body {
     width: 100vw;
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center; 
     cursor: pointer;
-    background-color:  rgb(236, 142, 157);;
+    background-color:  rgb(255, 144, 70);
 }
 .zagolovok{
     text-align: left;
@@ -27,7 +27,7 @@ body {
     display: grid;
     grid-gap: 150px;
     grid-template-columns: 1fr 1fr ;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
 }
 img {
     width: 600px;
